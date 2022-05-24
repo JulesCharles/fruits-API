@@ -2,21 +2,26 @@
   {
     "id": 1,
     "product": "banana",
-    "prix": "1 euro"
+    "prix": "1 euro",
+    "image": "https://images.pexels.com/photos/2872755/pexels-photo-2872755.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
   {
     "id": 2,
     "product": "haricots",
-    "prix": "6 euro"
+    "prix": "6 euro",
+    "image": "https://images.pexels.com/photos/768091/pexels-photo-768091.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
   {
     "id": 3,
     "product": "pommes",
-    "prix": "2 euro"
+    "prix": "2 euro",
+    "image": "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+
   },
   {
     "id": 4,
     "product": "carotte",
-    "prix": "1.5 euro"
+    "prix": "1.5 euro",
+    "image": "https://images.pexels.com/photos/143133/pexels-photo-143133.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   }
 ]
